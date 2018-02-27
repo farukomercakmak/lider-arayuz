@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=LiderArayüz
+GenericName=LiderAhenk Yönetim Arayüzü
+Comment=LiderAhenk Yönetim Arayüzü
+Exec= /opt/Lider.Console.Core-linux.gtk.x86_64_all-1.1/lider-console
+Icon= /usr/share/icons/lider-arayuz.png
+Categories=Development;Application
+Terminal=false
