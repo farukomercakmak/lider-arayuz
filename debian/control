@@ -1,0 +1,12 @@
+Source: lider-arayuz
+Section: utils
+Priority: optional
+Maintainer: Ömer Çakmak <farukomercakmak@gmail.com>
+Standards-Version: 1.1
+Homepage: http://www.liderahenk.org.tr
+
+Package: lider-arayuz
+Architecture: amd64
+Depends: openjdk-8-jre
+         
+Description: LiderAhenk Açık Kaynak Merkezi Yönetim Sistemi yönetim uygulamasıdır.
