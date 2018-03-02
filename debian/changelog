@@ -1,6 +1,5 @@
-lider-console (1.1) UNRELEASED; urgency=low
+lider-console (1.1) unstable; urgency=medium
 
   * Initial release. Closes: #nnnn
-    <nnnn is the bug number of your ITP>
 
- -- Faruk Ömer Çakmak <farukomercakmakâgmail.comt>  Tue, 27 Feb 2018 16:58:12 +0300
+ -- Ömer ÇAKMAK <farukomercakmak@gmail.com>  Fri, 02 Mar 2018 08:48:26 +0300
